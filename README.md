@@ -108,11 +108,6 @@ compressed_board = game.CompressBoard(player=1, board=game.board)
 python checkers.py
 ```
 
-### Adding New Agents
-
-1. Implement your agent class
-2. Add it to the available agents in `playRandomMinMax`
-3. Test against existing agents
 
 ## Dependencies
 
@@ -132,14 +127,6 @@ All dependencies are listed in `requirements.txt`.
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-
-[Add your license information here]
-
-## Acknowledgments
-
-[Add any acknowledgments or references here]
 
 
 
