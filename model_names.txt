@@ -1,0 +1,6 @@
+randomaa.keras
+curriculumaa.keras
+minmaxaa.keras
+itselfaa.keras
+RandomBot
+MinimaxBot
